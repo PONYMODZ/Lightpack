@@ -33,7 +33,7 @@
    <item row="2" column="1">
     <widget class="QRadioButton" name="rbArdulight">
      <property name="text">
-      <string>Ardulight (Serial, 255 LEDs)</string>
+      <string>Ardulight (Serial, 511 LEDs)</string>
      </property>
     </widget>
    </item>

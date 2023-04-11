@@ -102,7 +102,7 @@ namespace MaximumNumberOfLeds
 enum Devices
 {
 	Adalight	= 511,
-	Ardulight	= 255,
+	Ardulight	= 511,
 	AlienFx		= 1,
 	Virtual		= 511,
 	Drgb        = 490,
